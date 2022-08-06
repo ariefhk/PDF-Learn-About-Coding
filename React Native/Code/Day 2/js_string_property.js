@@ -70,3 +70,13 @@ var psrFloat = parseFloat(strNumber);
 
 console.log(psrInt);
 console.log(psrFloat);
+
+
+
+
+
+
+
+    
+    
+  
